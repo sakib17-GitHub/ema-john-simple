@@ -19,6 +19,8 @@ nav a{
     font-size: 16px;
 }  
 nav a:hover{
-    background-color: rgb(187, 183, 183);
+    background-color: aliceblue;
+    color:black;
+    zoom:1.1;
 } 
    
